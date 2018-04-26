@@ -97,8 +97,7 @@ const {app, BrowserWindow} = require('electron')
 ## 启动你的应用
 在创建并初始化完成 main.js、 index.html和package.json之后，您就可以在当前工程的根目录执行 npm start 命令来启动刚刚编写好的Electron程序了。
 我们可以看到应用已经完美的跑了起来，我们开启了devTools因此，我们的应用应该是这样的。
-
-![Electron](https://img-blog.csdn.net/20171004235043193?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSGFvRGFXYW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![Electron](https://raw.githubusercontent.com/shuai-zi/electron/master/myapp.png)
 ## 尝试此例
 ###### tip：您可能需要预先安装Git环境
 ```
