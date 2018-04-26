@@ -124,3 +124,4 @@ electron-packager . HelloWorld --win --out ../HelloWorldApp --arch=x64 --version
 ```
 
 执行完毕后，看到父级目录下已经产生了我们希望看到的应用文件夹。
+![buildApp](https://raw.githubusercontent.com/shuai-zi/electron/master/buildApp.png)
